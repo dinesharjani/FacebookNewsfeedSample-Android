@@ -35,7 +35,7 @@
     <file path="/fragment.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366828105423" ignored="false" />
     <file path="/MyNewsfeedActivity.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366887592052" ignored="false" />
     <file path="/mynewsfeed_fragment.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366827354389" ignored="false" />
-    <file path="/strings.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366824180025" ignored="false" />
+    <file path="/strings.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366890434793" ignored="false" />
     <file path="/NewsfeedItemAdapter.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366887920474" ignored="false" />
     <file path="/FacebookNewsfeedItem.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366802235522" ignored="false" />
     <file path="/a.dummy" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366742088936" ignored="false" />
@@ -117,13 +117,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FacebookGraphAPIRequestTask.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FacebookGraphAPIRequestTask.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="112" selection-start="4403" selection-end="4403" vertical-scroll-proportion="0.5915916">
+            <state line="111" column="141" selection-start="4661" selection-end="4661" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="47" selection-start="153" selection-end="153" vertical-scroll-proportion="0.07511046">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,7 +148,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/NewsfeedItem.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/mynewsfeed_fragment.xml" />
         <option value="$PROJECT_DIR$/res/layout/mynewsfeed_activity.xml" />
         <option value="$PROJECT_DIR$/res/layout/newsfeed_listviewitem.xml" />
@@ -154,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/adapters/NewsfeedItemAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/fragments/MyNewsfeedFragment.java" />
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -776,13 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/newsfeed_listviewitem.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -867,10 +869,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="112" selection-start="4403" selection-end="4403" vertical-scroll-proportion="0.5915916">
+        <state line="111" column="141" selection-start="4661" selection-end="4661" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="47" selection-start="153" selection-end="153" vertical-scroll-proportion="0.07511046">
+          <folding />
         </state>
       </provider>
     </entry>

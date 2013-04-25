@@ -1,4 +1,4 @@
-# FacebookNewsSample
+# FacebookNewsSample-Android
 
 ## Introduction
 
@@ -32,6 +32,11 @@ Keep in mind this code is for sample purposes. Even so, I made use of Fragments 
 
 * [Facebook Official Documentation] (https://developers.facebook.com/)
 * [Chris Banes' Pull-to-Refresh Github Project] (https://github.com/chrisbanes/Android-PullToRefresh)
+
+## Contact
+Dinesh Harjani
+Email: [goldrunner18725@gmail.com] (mailto:goldrunner18725@gmail.com)
+Twitter: [@dinesharjani] (https://twitter.com/dinesharjani)
 
 ## License
 

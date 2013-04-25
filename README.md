@@ -1,4 +1,4 @@
-# FacebookNewsSample-Android
+# FacebookNewsfeedSample-Android
 
 ## Introduction
 

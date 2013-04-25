@@ -35,8 +35,8 @@ Keep in mind this code is for sample purposes. Even so, I made use of Fragments 
 
 ## Contact
 Dinesh Harjani
-Email: [goldrunner18725@gmail.com] (mailto:goldrunner18725@gmail.com)
-Twitter: [@dinesharjani] (https://twitter.com/dinesharjani)
+* Email: [goldrunner18725@gmail.com] (mailto:goldrunner18725@gmail.com)
+* Twitter: [@dinesharjani] (https://twitter.com/dinesharjani)
 
 ## License
 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:facebook="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+	<!-- This goes at the bottom of the Layout -->
+	<RelativeLayout
+		android:id="@+id/com_dhsoftware_android_myNewsfeedFragment_userContainer"
+	   android:layout_width="match_parent"
+	   android:layout_height="72dp"
+		android:layout_alignParentBottom="true"
+		android:background="@color/com_dhsoftware_android_black">
+
+		<com.facebook.widget.ProfilePictureView
+			android:id="@+id/com_dhsoftware_android_myNewsfeedFragment_userProfilePicture"
+			android:layout_height="64dp"
+			android:layout_width="64dp"
+			android:gravity="center"
+			android:layout_margin="@dimen/com_dhsoftware_android_marginSize_normal"
+			android:layout_alignParentRight="true"
+			android:visibility="gone"
+			facebook:preset_size="normal">
+		</com.facebook.widget.ProfilePictureView>
+
+		<TextView
+			android:id="@+id/myNewsFeedFragment_userName"
+		   android:layout_width="match_parent"
+		   android:layout_height="match_parent"
+		   android:gravity="center"
+		   android:layout_marginLeft="@dimen/com_dhsoftware_android_marginSize_normal"
+		   android:layout_toLeftOf="@id/com_dhsoftware_android_myNewsfeedFragment_userProfilePicture"
+		   android:visibility="gone"
+		   android:text="User name goes here">
+		</TextView>
+
+		<com.facebook.widget.LoginButton
+				  android:id="@+id/com_dhsoftware_android_myNewsFeedFragment_userLoginButton"
+				  android:layout_width="wrap_content"
+				  android:layout_height="match_parent"
+				  android:layout_margin="@dimen/com_dhsoftware_android_marginSize_normal"
+				  facebook:confirm_logout="false"
+				  facebook:fetch_user_info="true">
+		</com.facebook.widget.LoginButton>
+
+	 </RelativeLayout>
+
+	<!-- The rest of the screen is filled by the Newsfeed ListView -->
+
+	<com.handmark.pulltorefresh.library.PullToRefreshListView
+		android:id="@+id/myNewsfeedFragment_userNewsfeed"
+	   android:layout_width="match_parent"
+	   android:layout_height="match_parent"
+	   android:layout_alignParentTop="true"
+	   android:layout_above="@id/com_dhsoftware_android_myNewsfeedFragment_userContainer">
+	</com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+</RelativeLayout>

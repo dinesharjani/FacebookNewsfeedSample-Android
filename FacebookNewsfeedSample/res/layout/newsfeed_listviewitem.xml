@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:facebook="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+	<com.facebook.widget.ProfilePictureView
+		android:id="@+id/com_dhsoftware_android_newsFeedItem_userProfilePicture"
+		android:layout_height="64dp"
+		android:layout_width="64dp"
+		android:layout_alignParentTop="true"
+		android:layout_margin="@dimen/com_dhsoftware_android_marginSize_normal"
+		facebook:preset_size="normal">
+	</com.facebook.widget.ProfilePictureView>
+
+	<TextView
+		android:id="@+id/com_dhsoftware_android_newsFeedItem_time"
+	   android:layout_height="wrap_content"
+	   android:layout_width="wrap_content"
+	   android:layout_alignParentTop="true"
+	   android:layout_alignParentRight="true"
+	   android:layout_margin="@dimen/com_dhsoftware_android_marginSize_normal"
+	   android:text="HH:MM"
+		android:textSize="@dimen/com_dhsoftware_android_textSize_normal">
+	</TextView>
+
+	<TextView
+		android:id="@+id/com_dhsoftware_android_newsFeedItem_userName"
+	   android:layout_height="wrap_content"
+	   android:layout_width="match_parent"
+	   android:layout_toRightOf="@id/com_dhsoftware_android_newsFeedItem_userProfilePicture"
+	   android:layout_toLeftOf="@id/com_dhsoftware_android_newsFeedItem_time"
+	   android:layout_margin="@dimen/com_dhsoftware_android_marginSize_normal"
+	   android:text="User Name goes here"
+	   android:textSize="@dimen/com_dhsoftware_android_textSize_big">
+	</TextView>
+
+	<TextView
+		android:id="@+id/com_dhsoftware_android_newsFeedItem_content"
+	   android:layout_height="wrap_content"
+	   android:layout_width="match_parent"
+	   android:layout_below="@id/com_dhsoftware_android_newsFeedItem_userName"
+	   android:layout_toRightOf="@id/com_dhsoftware_android_newsFeedItem_userProfilePicture"
+	   android:layout_margin="@dimen/com_dhsoftware_android_marginSize_normal"
+	   android:text="User content goes here"
+	   android:textSize="@dimen/com_dhsoftware_android_textSize_normal"
+		android:autoLink="web">
+	</TextView>
+
+	<TextView
+		android:id="@+id/com_dhsoftware_android_newsFeedItem_via"
+	   android:layout_height="wrap_content"
+	   android:layout_width="wrap_content"
+	   android:layout_below="@id/com_dhsoftware_android_newsFeedItem_content"
+	   android:layout_margin="@dimen/com_dhsoftware_android_marginSize_big"
+	   android:text="via XXXXX app goes here"
+	   android:textSize="@dimen/com_dhsoftware_android_textSize_normal">
+	</TextView>
+
+</RelativeLayout>

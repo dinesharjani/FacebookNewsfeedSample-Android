@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Margins -->
+	<dimen name="com_dhsoftware_android_marginSize_big">15dp</dimen>
+	<dimen name="com_dhsoftware_android_marginSize_normal">7dp</dimen>
+
+	<!-- Text -->
+	<dimen name="com_dhsoftware_android_textSize_big">19sp</dimen>
+	<dimen name="com_dhsoftware_android_textSize_normal">14sp</dimen>
+</resources>

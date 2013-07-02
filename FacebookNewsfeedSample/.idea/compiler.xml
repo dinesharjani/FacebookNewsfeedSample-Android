@@ -2,6 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/../library/gen/com/handmark/pulltorefresh/library/BuildConfig.java" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/BooleanOGSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/ProfilePictureSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/GraphApiSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/FriendPickerSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/HelloFacebookSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/PlacePickerSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/SwitchUserSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/SessionLoginSample/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/facebook/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/Scrumptious/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/samples/Hackbook/gen" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/../library/gen" includeSubdirectories="true" />
+    </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -22,7 +38,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="library" />
       </profile>
     </annotationProcessing>
   </component>

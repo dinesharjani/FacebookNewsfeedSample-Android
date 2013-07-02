@@ -20,7 +20,7 @@ My recommendations to anyone interested in this code: please, please, please, ha
 
 There are a couple of things you need to go through to get this code working for you.
 
-* First: I wrote this project in [IntelliJ-Idea] (http://www.jetbrains.com/idea/), [not Eclipse] (http://www.eclipse.org/). Your first order of business would be to get the Project to run and not show up any errors.
+* First: I wrote this project for [the new Android Studio IDE] (http://developer.android.com/sdk/installing/studio.html), [not Eclipse] (http://www.eclipse.org/). Your first order of business would be to get the Project to run and not show up any errors. Be careful with setting up properly the Facebook Module in the project; if you don't you'll get runtime errors with the Facebook SDK components not being able to properly access its own resources.
 
 * Second: Once the Project runs, you'll try to Log in and find that it doesn't totally work. That's because you need to go to Facebook and [create your own App in their console] (https://developers.facebook.com/apps). [This link should provide you with all the help you might need.] (https://developers.facebook.com/docs/getting-started/facebook-sdk-for-android/3.0/)
 

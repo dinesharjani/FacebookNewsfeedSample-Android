@@ -23,40 +23,15 @@
       </GlobalState>
     </option>
   </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="058e23c9-1a7b-4c62-a5f2-190ddfebd664" name="Default" comment="" />
     <ignored path="FacebookNewsFeedSample.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366816089823" ignored="false" />
-    <file path="/mynewsfeed-activity.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366718993685" ignored="false" />
-    <file path="/MyNewsfeedFragment.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366888251954" ignored="false" />
-    <file path="/mynewsfeed-fragment.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366720490874" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366728801192" ignored="false" />
-    <file path="/fragment.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366828105423" ignored="false" />
-    <file path="/MyNewsfeedActivity.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366887592052" ignored="false" />
-    <file path="/mynewsfeed_fragment.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366827354389" ignored="false" />
-    <file path="/strings.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366890434793" ignored="false" />
-    <file path="/NewsfeedItemAdapter.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366887920474" ignored="false" />
-    <file path="/FacebookNewsfeedItem.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366802235522" ignored="false" />
-    <file path="/a.dummy" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366742088936" ignored="false" />
-    <file path="/newsfeed_listviewitem.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366827547146" ignored="false" />
-    <file path="/NewsfeedItemWrapper.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366832495536" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Old Work/Seedwind/SIGA/PlaneTouchPanel/project.properties" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366799881909" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../Old Work/Seedwind/SIGA/SigaTLB/project.properties" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366799881909" ignored="false" />
-    <file path="/NewsfeedItemFrom.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366801354714" ignored="false" />
-    <file path="/NewsfeedItemVia.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366802224593" ignored="false" />
-    <file path="/dimens.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366803157059" ignored="false" />
-    <file path="/colors.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366803124358" ignored="false" />
-    <file path="/NewsfeedItemApplication.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366803543750" ignored="false" />
-    <file path="/NewsfeedItem.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366803563365" ignored="false" />
-    <file path="/FacebookGraphAPIRequestTask.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366888417086" ignored="false" />
-    <file path="/GraphAPIRequest.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366832351327" ignored="false" />
-    <file path="/IRequestCallback.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366831705188" ignored="false" />
-    <file path="/mynewsfeed_activity.xml" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366827374296" ignored="false" />
-    <file path="/INewsfeedItem.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366831520093" ignored="false" />
-    <file path="/INewsfeedItemApplication.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366832036248" ignored="false" />
-    <file path="/INewsfeedItemFrom.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366831946846" ignored="false" />
-    <file path="/INewsfeedItemVia.java" changelist="058e23c9-1a7b-4c62-a5f2-190ddfebd664" time="1366832023446" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +39,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="USE_COMPILE_SERVER" value="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -120,10 +98,17 @@
       <file leaf-file-name="FacebookGraphAPIRequestTask.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="141" selection-start="4661" selection-end="4661" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="55" column="7" selection-start="2326" selection-end="2326" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1989">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRequestCallback.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/IRequestCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="408">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,7 +116,72 @@
       <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="47" selection-start="153" selection-end="153" vertical-scroll-proportion="0.07511046">
+            <state line="3" column="73" selection-start="178" selection-end="178" vertical-scroll-proportion="0.060714286" vertical-offset="0" max-vertical-offset="840">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyNewsfeedFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/fragments/MyNewsfeedFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="200" column="38" selection-start="9087" selection-end="9087" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5746">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INewsfeedItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="25" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="INewsfeedItemFrom.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItemFrom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="25" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimens.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="12" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="748">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewsfeedItemAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/adapters/NewsfeedItemAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="33" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1428">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewsfeedItemWrapper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/wrappers/NewsfeedItemWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="16" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2108">
               <folding />
             </state>
           </provider>
@@ -160,8 +210,8 @@
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/IRequestCallback.java" />
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/wrappers/NewsfeedItemWrapper.java" />
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/adapters/NewsfeedItemAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/fragments/MyNewsfeedFragment.java" />
         <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java" />
+        <option value="$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/fragments/MyNewsfeedFragment.java" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
       </list>
     </option>
@@ -174,28 +224,12 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Android-PullToRefresh Library" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="606" />
-    <option name="y" value="158" />
-    <option name="width" value="1920" />
-    <option name="height" value="1174" />
+    <option name="y" value="22" />
+    <option name="width" value="2560" />
+    <option name="height" value="1414" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -224,7 +258,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,6 +291,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FacebookNewsfeedSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrappers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -447,32 +484,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FacebookNewsFeedSample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="facebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FacebookNewsFeedSample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="facebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,14 +501,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../library" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="GNX" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -502,12 +518,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Android Application.FacebookNewsfeedSample">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -532,33 +542,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -629,8 +612,8 @@
       <option name="ACTIVITY_CLASS" value="com.dhsoftware.android.FacebookNewsfeedSample.activities.MyNewsfeedActivity" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="GNX" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
@@ -642,8 +625,178 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="ProfilePictureSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="ProfilePictureSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GraphApiSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="GraphApiSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BooleanOGSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="BooleanOGSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scrumptious" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Scrumptious" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SwitchUserSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="SwitchUserSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HelloFacebookSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="HelloFacebookSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SessionLoginSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="SessionLoginSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PlacePickerSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="PlacePickerSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FriendPickerSample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="FriendPickerSample" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Hackbook" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Hackbook" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="11">
       <item index="0" class="java.lang.String" itemvalue="Android Application.FacebookNewsfeedSample" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.ProfilePictureSample" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.GraphApiSample" />
+      <item index="3" class="java.lang.String" itemvalue="Android Application.BooleanOGSample" />
+      <item index="4" class="java.lang.String" itemvalue="Android Application.Scrumptious" />
+      <item index="5" class="java.lang.String" itemvalue="Android Application.SwitchUserSample" />
+      <item index="6" class="java.lang.String" itemvalue="Android Application.HelloFacebookSample" />
+      <item index="7" class="java.lang.String" itemvalue="Android Application.SessionLoginSample" />
+      <item index="8" class="java.lang.String" itemvalue="Android Application.PlacePickerSample" />
+      <item index="9" class="java.lang.String" itemvalue="Android Application.FriendPickerSample" />
+      <item index="10" class="java.lang.String" itemvalue="Android Application.Hackbook" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -660,33 +813,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="606" y="158" width="1920" height="1174" extended-state="0" />
+    <frame x="0" y="22" width="2560" height="1414" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="15" y="178" width="597" height="997" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.670778" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39943075" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.670778" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975337" sideWeight="0.6707882" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.670778" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940334" sideWeight="0.6707882" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="15" y="178" width="597" height="997" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.670778" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -755,121 +909,113 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/facebook/res/layout/com_facebook_friendpickerfragment.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/mynewsfeed_fragment.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="87" selection-start="2293" selection-end="2293" vertical-scroll-proportion="1.4632238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/mynewsfeed_activity.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="46" selection-start="403" selection-end="403" vertical-scroll-proportion="0.23943663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/newsfeed_listviewitem.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="29" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.5680751">
+        <state line="49" column="29" selection-start="2148" selection-end="2148" vertical-scroll-proportion="0.5680751" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/activities/MyNewsfeedActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="744" selection-end="744" vertical-scroll-proportion="0.25975975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="1328" selection-end="1328" vertical-scroll-proportion="0.3108108">
+        <state line="16" column="16" selection-start="744" selection-end="744" vertical-scroll-proportion="0.25975975" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItemApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="3" selection-start="380" selection-end="380" vertical-scroll-proportion="0.22533137">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItemFrom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="531" selection-end="531" vertical-scroll-proportion="0.30044183">
+        <state line="9" column="3" selection-start="380" selection-end="380" vertical-scroll-proportion="0.22533137" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItemVia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="539" selection-end="539" vertical-scroll-proportion="0.30044183">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/IRequestCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="705" selection-end="705" vertical-scroll-proportion="0.27540502">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/wrappers/NewsfeedItemWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="799" selection-end="799" vertical-scroll-proportion="0.30044183">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/adapters/NewsfeedItemAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="6" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.55081004">
+        <state line="12" column="16" selection-start="539" selection-end="539" vertical-scroll-proportion="0.30044183" vertical-offset="0" max-vertical-offset="0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/GraphAPIRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="705" selection-end="705" vertical-scroll-proportion="0.27393225">
+        <state line="13" column="16" selection-start="705" selection-end="705" vertical-scroll-proportion="0.27393225" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/mynewsfeed_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="46" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/IRequestCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="7" selection-start="2326" selection-end="2326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/wrappers/NewsfeedItemWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/adapters/NewsfeedItemAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="33" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/model/newsfeed/INewsfeedItemFrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/fragments/MyNewsfeedFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="318" column="43" selection-start="14094" selection-end="14094" vertical-scroll-proportion="0.6936937">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dhsoftware/android/FacebookNewsfeedSample/tasks/FacebookGraphAPIRequestTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="141" selection-start="4661" selection-end="4661" vertical-scroll-proportion="0.0">
+        <state line="200" column="38" selection-start="9087" selection-end="9087" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5746">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -878,7 +1024,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="47" selection-start="153" selection-end="153" vertical-scroll-proportion="0.07511046">
+        <state line="3" column="73" selection-start="178" selection-end="178" vertical-scroll-proportion="0.060714286" vertical-offset="0" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
@@ -951,7 +1097,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -971,7 +1116,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>joda-time-2.2-javadoc</last-edited>
+          <last-edited>android-support-v41</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

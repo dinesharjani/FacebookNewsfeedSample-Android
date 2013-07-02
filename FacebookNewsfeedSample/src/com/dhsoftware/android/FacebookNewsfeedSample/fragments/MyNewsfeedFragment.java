@@ -1,5 +1,6 @@
 package com.dhsoftware.android.FacebookNewsfeedSample.fragments;
 
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.*;
@@ -198,7 +199,17 @@ public class MyNewsfeedFragment extends Fragment implements IRequestCallback {
       case __MENU_LOGOUT_OPTION__:
          // the Login button switches to "Logout" if our Session's active, so all we've got to do to
          // Logout is click it programmatically
-         mUserLoginButton.callOnClick();
+
+         // Reflection: only use the appropriate method call depending on current Android release
+         // we're running on
+         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH_MR1) {
+             // callOnClick is a new method added in API 15
+             mUserLoginButton.callOnClick();
+         }
+         else {
+             // performClick is the classic method to make a button trigger its listeners
+             mUserLoginButton.performClick();
+         }
          return true;
       default:
          break;

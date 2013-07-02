@@ -12,7 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module" module-name="FacebookSDK" exported="" />
+    <orderEntry type="module" module-name="facebook" exported="" />
+    <orderEntry type="module" module-name="FacebookSDK" />
     <orderEntry type="library" exported="" name="joda-time-2.2-javadoc" level="project" />
     <orderEntry type="module" module-name="library" exported="" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">FacebookNewsfeedSample</string>
-	<string name="facebook_app_id">your-facebook-app-id-goes-here</string>
+	<string name="facebook_app_id">your-facebook-app-id-goes-here-in-res-strings-xml</string>
 
 	<string name="com_dhsoftware_android_logout">Logout</string>
 </resources>

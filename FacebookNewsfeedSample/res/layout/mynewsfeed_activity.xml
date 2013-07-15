@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/com_dhsoftware_android_myNewsfeedActivity_containerView"
               android:orientation="vertical"
               android:layout_width="match_parent"
-              android:layout_height="match_parent"
-		  >
-
-	<fragment
-		class="com.dhsoftware.android.FacebookNewsfeedSample.fragments.MyNewsfeedFragment"
-		android:id="@+id/com_dhsoftware_android_myNewsfeedActivity_view"
-		android:layout_height="match_parent"
-		android:layout_width="match_parent">
-	</fragment>
+              android:layout_height="match_parent">
 </LinearLayout>
 

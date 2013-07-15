@@ -8,6 +8,9 @@ import android.os.Bundle;
  * {@link com.dhsoftware.android.FacebookNewsfeedSample.tasks.FacebookGraphAPIRequestTask FacebookGraphAPIRequestTask} requires for every request
  * in a distinct class.
  * <br></br>
+ * There are no "setters" here since immutable classes are always preferable to mutable classes since they're simpler and don't change state,
+ * therefore being much easier to understand and debug.
+ * <br></br>
  * <br></br>
  * User: Dinesh Harjani (email: goldrunner18725@gmail.com) (github: the7thgoldrunner) (Twitter: @dinesharjani)
  * <br></br>
@@ -18,19 +21,17 @@ public class GraphAPIRequest {
    String mGraphPath;
    Bundle mParameters;
 
-   public String getGraphPath() {
-      return mGraphPath;
+   public GraphAPIRequest(String graphPath, Bundle params) {
+       mGraphPath = graphPath;
+       mParameters = params;
    }
 
-   public void setGraphPath(String graphPath) {
-      mGraphPath = graphPath;
+   public String getGraphPath() {
+      return mGraphPath;
    }
 
    public Bundle getParameters() {
       return mParameters;
    }
 
-   public void setParameters(Bundle parameters) {
-      mParameters = parameters;
-   }
 }

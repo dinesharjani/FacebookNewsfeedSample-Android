@@ -11,6 +11,7 @@ import com.facebook.model.GraphObject;
 import com.facebook.model.GraphObjectList;
 import org.joda.time.DateTime;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
@@ -54,13 +55,13 @@ public class FacebookGraphAPIRequestTask extends AsyncTask<GraphAPIRequest, Inte
             mItems.add(newsfeedItem);
          }
       }
-      catch (Exception e) {
-         e.printStackTrace();
+      catch (JSONException jsonException) {
+         jsonException.printStackTrace();
       }
    }
 
    /**
-    * This is the method performing all of this Tasks's work. It loops through all of the {@link com.dhsoftware.android.FacebookNewsfeedSample.model.GraphAPIRequest GraphAPIRequest}s and
+    * This is the method performing all of this Tasks' work. It loops through all of the {@link com.dhsoftware.android.FacebookNewsfeedSample.model.GraphAPIRequest GraphAPIRequest}s and
     * adds all the downloaded items into a list.
     */
    @Override

@@ -2,7 +2,9 @@ package com.dhsoftware.android.FacebookNewsfeedSample.fragments;
 
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Parcelable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.*;
 import android.widget.TextView;
 import com.dhsoftware.android.FacebookNewsfeedSample.R;
@@ -99,7 +101,7 @@ public class MyNewsfeedFragment extends Fragment implements IRequestCallback {
 
    @Override
    public View onCreateView(LayoutInflater inflater, ViewGroup viewGroup, Bundle savedInstanceState) {
-      View view = inflater.inflate(R.layout.mynewsfeed_fragment, viewGroup);
+      View view = inflater.inflate(R.layout.mynewsfeed_fragment, viewGroup, false);
       initUIConfig((ViewGroup) view);
       return view;
    }
@@ -249,7 +251,7 @@ public class MyNewsfeedFragment extends Fragment implements IRequestCallback {
          // and prompt the system to make our Menu disappear
          setMenuVisibility(false);
       }
-
+       Log.e(MyNewsfeedFragment.class.getSimpleName(), "updateUI called.");
    }
 
    /**
@@ -299,19 +301,20 @@ public class MyNewsfeedFragment extends Fragment implements IRequestCallback {
     * request our user's Newsfeed off Facebook's API.
     */
    private void requestNewsfeed() {
-      GraphAPIRequest request = new GraphAPIRequest();
+
       // newsfeed base address
-      request.setGraphPath("/me/home");
+      String requestAddress = "/me/home";
+
       Bundle params = new Bundle();
       // the specific fields we're interested in
       params.putString("fields", "id,from,name,message,caption,description,created_time,updated_time,type,status_type,via,source,picture, application");
-      request.setParameters(params);
       // if we already have some items downloaded
       if (mAdapter.getCount() > 0) {
          // we'll only request the new ones
          params.putString("since", mAdapter.getItem(mAdapter.getCount() - 1).getUpdated_Time());
       }
 
+      GraphAPIRequest request = new GraphAPIRequest(requestAddress, params);
       // make a new request
       FacebookGraphAPIRequestTask requestTask = new FacebookGraphAPIRequestTask();
       // set ourselves to be called

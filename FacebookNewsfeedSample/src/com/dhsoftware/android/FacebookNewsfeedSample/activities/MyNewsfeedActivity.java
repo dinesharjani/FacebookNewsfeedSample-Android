@@ -22,7 +22,6 @@ import com.facebook.Session;
 public class MyNewsfeedActivity extends FragmentActivity {
 
    private static final String __NEWSFEED_FRAGMENT_TAG__ = MyNewsfeedFragment.class.getCanonicalName();
-   private MyNewsfeedFragment mNewsfeedFragment;
 
    /**
     * Called when the activity is first created.
@@ -30,13 +29,10 @@ public class MyNewsfeedActivity extends FragmentActivity {
    @Override
    public void onCreate(Bundle savedInstanceState) {
       super.onCreate(savedInstanceState);
-      setContentView(R.layout.mynewsfeed_activity);
 
-       if (savedInstanceState != null) {
-           mNewsfeedFragment = (MyNewsfeedFragment) getSupportFragmentManager().findFragmentByTag(__NEWSFEED_FRAGMENT_TAG__);
-       } else {
-           mNewsfeedFragment = new MyNewsfeedFragment();
-           getSupportFragmentManager().beginTransaction().add(R.id.com_dhsoftware_android_myNewsfeedActivity_containerView, mNewsfeedFragment, __NEWSFEED_FRAGMENT_TAG__).commit();
+       if (savedInstanceState == null) {
+           MyNewsfeedFragment mNewsfeedFragment = new MyNewsfeedFragment();
+           getSupportFragmentManager().beginTransaction().add(android.R.id.content, mNewsfeedFragment, __NEWSFEED_FRAGMENT_TAG__).commit();
        }
    }
 

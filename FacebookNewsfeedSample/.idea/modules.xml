@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FacebookNewsfeedSample.iml" filepath="$PROJECT_DIR$/FacebookNewsfeedSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/facebook/FacebookSDK.iml" filepath="$PROJECT_DIR$/../facebook-android-sdk-3.0.1/facebook/FacebookSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/../facebook-android-sdk-3.0.1/facebook/facebook.iml" filepath="$PROJECT_DIR$/../facebook-android-sdk-3.0.1/facebook/facebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
     </modules>

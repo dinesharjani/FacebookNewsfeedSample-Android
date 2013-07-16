@@ -20,8 +20,11 @@ import com.facebook.widget.ProfilePictureView;
 import com.handmark.pulltorefresh.library.PullToRefreshBase;
 import com.handmark.pulltorefresh.library.PullToRefreshListView;
 
+import org.joda.time.DateTime;
+
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 
 /**
  * This is the meat of this sample. This {@link android.support.v4.app.Fragment Fragment} takes care of logging in to Facebook, asking for the
@@ -96,6 +99,8 @@ public class MyNewsfeedFragment extends Fragment implements IRequestCallback {
       super.onCreate(savedInstanceState);
       // if we forget this line, we won't have a Menu!
       setHasOptionsMenu(true);
+      // we want our Fragment to live through a rotation and its state to survive intact
+      setRetainInstance(true);
       initDataMembersConfig(savedInstanceState);
    }
 
